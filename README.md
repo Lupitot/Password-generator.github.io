@@ -5,7 +5,7 @@ It's web site with 4 input : \
     -  number of lowercase letter \
     -  number of uppercase letter  \
     -  number of digits \
-    -  number of special character \
+    -  number of special character
 
 This returns a secure password
 
